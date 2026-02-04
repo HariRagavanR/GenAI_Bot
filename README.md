@@ -2,6 +2,9 @@
 
 This project is part of my Generative AI learning journey.
 
+<img width="1920" height="1080" alt="Screenshot at 2026-02-04 15-18-46" src="https://github.com/user-attachments/assets/e2a48650-ead7-44ab-9660-e2086ec38c97" />
+
+
 ## What this project does
 - Simple GenAI chatbot using Groq LLM
 - Uses prompt engineering to control AI responses
